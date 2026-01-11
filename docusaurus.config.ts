@@ -27,7 +27,7 @@ const config: Config = {
   url: 'https://invxrtedstudios.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/invxrtedstudios.github.io/',
 
   trailingSlash: true,
 
