@@ -12,7 +12,7 @@ function HomepageHeader() {
 
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)} style={{
-      backgroundImage: 'url(/img/sudiosbanner.png)',
+      backgroundImage: `url(${require('@site/static/img/sudiosbanner.png').default})`,
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       backgroundRepeat: 'no-repeat',
