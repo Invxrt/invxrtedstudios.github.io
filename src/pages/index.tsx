@@ -65,7 +65,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`Welcome to ${siteConfig.title}`}
-      description="Minecraft modpacks by Tyson - featuring EMC: To The Sky!, EMC: Space Age, and SubTerra Tech">
+      description="Minecraft modpacks by Invxrt - featuring EMC: To The Sky!, EMC: Space Age, and SubTerra Tech!">
       <HomepageHeader />
       <main>
         <AboutMe />
