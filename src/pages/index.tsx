@@ -47,7 +47,7 @@ function AboutMe() {
               About Me
             </Heading>
             <p style={{fontSize: '1.1rem', lineHeight: '1.8', textAlign: 'center'}}>
-              Hey! I'm Invxrt, a Minecraft modpack creator who loves building unique experiences
+              Hey! I'm Invxrt, test a Minecraft modpack creator who loves building unique experiences
               around the End dimension and purple aesthetics. I specialize in creating modpacks
               that focus on Energy-Matter Curation (EMC) systems and progressive gameplay.
               While I don't create mods myself (Java gives me headaches!), I pour my creativity
